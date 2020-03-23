@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://deephoaxa.jisunpark.kr/sitemap.xml
